@@ -30,3 +30,12 @@ My name is Kerem Kazan. I've been a professional `full stack software engineer` 
 - `Terraform`
 - `Docker`
 - `AWS`
+
+### Link to Resume:
+
+https://docs.google.com/document/d/1-nvOuN02luMWiaD1MEPid4eMXL4kj8HECdLtw8C7elg/edit
+
+### Parting Words
+
+I believe our creations speak volumes about who we are. Not necessarily what we create, but definitely how we create, is almost like a microscope into our minds. To me, there's little that beats the feeling of overcoming oneself. Second to that is the joy of a job well done. For these reasons, I feel home when I get to be a part of a team of self-driven individuals who respect their crafts, taking on difficult challenges together while learning, growing, and intellectually nourishing one another. If you agree and want to connect for whatevr reason, DM me on twitter [@MechanicalKazan
+](https://twitter.com/MechanicalKazan), or shoot me an email at `kerem` [dot] `kazan` [at] `gmail` [dot] `com`.
