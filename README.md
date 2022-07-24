@@ -18,7 +18,7 @@ My name is Kerem Kazan. I've been a professional `full stack software engineer` 
 - [DAO Protocol](https://github.com/mechanical-turk/solidity-collector-dao): a DAO protocol built with the intention to buy and collect NFTs as a collective
 - [Liquidity Pool Protocol + Frontend](https://github.com/mechanical-turk/solidity-lp): a uniswap-like liquidity pool implementation along with a reference frontend application
 
-### My Current Tech Stack
+### Current Tech Stack
 
 - `TypeScript` / `NodeJS`
 - `Solidity` / `Hardhat`
