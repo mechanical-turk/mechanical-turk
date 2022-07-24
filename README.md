@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Kerem Kazan. I've been a professional `full stack software engineer` since 2016, and I'm currently focusing on `secure smart contract engineering`.
 
