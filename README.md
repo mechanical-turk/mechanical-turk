@@ -31,6 +31,10 @@ My name is Kerem Kazan. I've been a professional `full stack software engineer` 
 - `Docker`
 - `AWS`
 
+### Education
+
+- Computer Science @ University of Pennsylvania, class of 2017
+
 ### Link to Resume:
 
 https://docs.google.com/document/d/1-nvOuN02luMWiaD1MEPid4eMXL4kj8HECdLtw8C7elg/edit
