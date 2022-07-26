@@ -8,7 +8,7 @@ My name is Kerem Kazan. I've been a professional `full stack software engineer` 
 - Co-Founded and served as Head of Engineering to a 25-people strong venture backed high end fashion tech startup called [appreciate.it](https://appreciate.it).
 - Completed the [0xmacro Secure Smart Contract Engineering Fellowship](https://0xmacro.com/engineering-fellowship) with `honors tier`, an accomplishment that has been awarded historically to about 1-2 engineers per cohort. 
 - Co-Inventor of pending patent application: "Automated Platform for Performance Feedback"
-- 45 `stars` on [Uniform GraphQL](https://uniform-graphql.whatsgood.dog/), an open source project I authored for building code-first GrpahQL apis in TypeScript.
+- 45 `stars` on [Uniform GraphQL](https://uniform-graphql.whatsgood.dog/), an open source project I authored for building code-first GraphQL apis in TypeScript.
 - 36 `stars` on [VulcanJS CLI](https://github.com/VulcanJS/vulcanjs-cli), an open source CLI tool I co-authored for a `GraphQL` + `React` + `MeteorJS` full stack framework called `VulcanJS`.
 
 ### Web3 Project Portfolio:
