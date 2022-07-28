@@ -13,9 +13,9 @@ My name is Kerem Kazan. I've been a professional `full stack software engineer` 
 
 ### Web3 Project Portfolio:
 
-- [Crowdfunding Protocol](https://github.com/mechanical-turk/solidity-crowdfund): a crowdfunding protocol written in Solidity
-- [ICO Protocol + Frontend](https://github.com/mechanical-turk/solidity-ico): a multi-phasic ICO protocol for a tax-on-trade token, along with a reference frontend application to interact with it
-- [DAO Protocol](https://github.com/mechanical-turk/solidity-collector-dao): a DAO protocol built with the intention to buy and collect NFTs as a collective
+- [Crowdfunder](https://github.com/mechanical-turk/solidity-crowdfund): a crowdfunding protocol with a target goal, deadline, refunding and withdrawal features, written in Solidity
+- [ICO Protocol + Frontend](https://github.com/mechanical-turk/solidity-ico): a multi-phasic ICO protocol for a tax-on-trade token, with whitelisting, phase-based target supply, individual contribution limits, along with a reference frontend application to interact with it
+- [DAO Protocol](https://github.com/mechanical-turk/solidity-collector-dao): a DAO protocol built with the intention to buy and collect NFTs as a collective, with proposals, voting, membership and eip712 signature vote casting features
 - [Liquidity Pool Protocol + Frontend](https://github.com/mechanical-turk/solidity-lp): a uniswap-like liquidity pool implementation along with a reference frontend application
 
 ### Current Tech Stack
