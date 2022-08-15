@@ -35,7 +35,7 @@ My name is Kerem Kazan. I've been a professional `full stack software engineer` 
 
 Computer Science @ University of Pennsylvania, class of 2017
 
-### Link to Resume:
+### Link to Resume
 
 https://docs.google.com/document/d/1-nvOuN02luMWiaD1MEPid4eMXL4kj8HECdLtw8C7elg/edit
 
