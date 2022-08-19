@@ -26,7 +26,7 @@ My name is Kerem Kazan. I've been a professional `full stack software engineer` 
 - `GraphQL` / `Apollo Client`
 - `Datadog`
 - `NestJS`
-- `Postgres`
+- `Postgres` / `Prisma`
 - `Terraform`
 - `Docker`
 - `AWS`
