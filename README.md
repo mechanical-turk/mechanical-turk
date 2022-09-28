@@ -5,7 +5,7 @@ My name is Kerem Kazan. I've been a professional `full stack software engineer` 
 ### Currently Helping Build
 
 - [sound.xyz](https://www.sound.xyz): I help sound with client-side web3 integration, infrastructure, observability and GraphQL APIs.
-- [zion.xyz][https://zion.xyz]: I help zion with infrastructure, ci/cd and protocol design.
+- zion.xyz: (Under construction) I help zion with infrastructure, ci/cd and protocol design.
 
 ### Recent Accomplishments
 
