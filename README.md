@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Kerem Kazan. I've been a professional `full stack software engineer` since 2016, and I'm currently focusing on `secure smart contract engineering`. I'm currently building my web3 consulting & devshop business: [whatsgood.dog](https://whatsgood.dog).
+My name is Kerem Kazan. I've been a professional product oriented `full stack software engineer` since 2016, and I'm currently focusing on `smart contract engineering` and dApp architecture. Check out my web3 consulting & devshop business: [whatsgood.dog](https://whatsgood.dog).
 
 ### Currently Helping Build
 
