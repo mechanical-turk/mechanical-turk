@@ -4,8 +4,8 @@ My name is Kerem Kazan. I've been a professional product oriented `full stack so
 
 ### Currently Helping Build
 
-- [sound.xyz](https://www.sound.xyz): Sound is an artist-first, community driven nft crowdfunding platform. I help them with client-side web3 integration, infrastructure, observability and GraphQL APIs.
-- zion.xyz: (Under construction) Zion is a web3 native, community management platform. Think discord but decentralized and open-source. I help them with infrastructure, ci/cd and protocol design.
+- towns.com: Towns is a decentralized, realtime, e2e encrypted, community and messaging social experience, built on our in-house developed River protocol. Think discord but decentralized and open-source. I help with infrastructure, ci/cd and protocol design.
+- [sound.xyz](https://www.sound.xyz): Sound is an artist-first, community driven music nft  platform. I helped them with client-side web3 integration, infrastructure, observability and GraphQL APIs.
 
 ### Recent Accomplishments
 
