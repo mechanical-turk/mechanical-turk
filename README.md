@@ -1,10 +1,15 @@
 ## Hi there 👋
 
-My name is Kerem Kazan. I've been a professional product oriented `full stack software engineer` since 2016, and I'm currently focusing on `smart contract engineering` and `dApp architecture`. Check out our web3 consulting & devshop collective: [whatsgood.dog](https://whatsgood.dog).
+My name is Kerem Kazan. I've been a professional product oriented `full stack software engineer` since 2016, and I'm currently focusing on `infrastructure`, `smart contract engineering` and `dApp architecture`. Check out my Twitter ([@mechaturka](https://twitter.com/@mechaturka)) if you're interested in software philosophy and meditation.
 
-### Currently Helping Build
+### Currently Building
 
 - [towns.com](towns.com): Towns is a decentralized, realtime, e2e encrypted, community and messaging social experience, built on our in-house developed River protocol. Think discord but decentralized and open-source. I help with infrastructure, ci/cd and protocol design.
+
+- [@whatsgood/nexus](https://nexus.whatsgood.dog): Nexus is a multi-chain, hyper-customizable, performant and cost-saving rpc proxy library, written in TypeScript. It ships with built-in authorization, route filters, caching and observability. Behavior can be enhanced through configuration, middlewares and event handlers. Currently supporting CloudFlare, FastifyJS, Node, ExpressJS.
+
+### Previous Web3 Projects
+
 - [sound.xyz](https://www.sound.xyz): Sound is an artist-first, community driven music nft  platform. I helped them with client-side web3 integration, infrastructure, observability and GraphQL APIs.
 
 ### Recent Accomplishments
