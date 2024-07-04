@@ -4,7 +4,7 @@ My name is Kerem Kazan. I've been a professional product oriented `full stack so
 
 ### Currently Building
 
-- [towns.com](towns.com): Towns is a decentralized, realtime, e2e encrypted, community and messaging social experience, built on our in-house developed River protocol. Think discord but decentralized and open-source. I help with infrastructure, ci/cd and protocol design.
+- [towns.com](towns.com): Towns is a decentralized, realtime, e2e encrypted, community and messaging social experience, built on our in-house developed River protocol. Think discord but decentralized and open-source. I help with infrastructure, o11y, build systems and smart contracts.
 
 - [@whatsgood/nexus](https://nexus.whatsgood.dog): Nexus is a multi-chain, hyper-customizable, performant and cost-saving rpc proxy library, written in TypeScript. It ships with built-in authorization, route filters, caching and observability. Behavior can be enhanced through configuration, middlewares and event handlers. Currently supporting CloudFlare, FastifyJS, Node, ExpressJS.
 
