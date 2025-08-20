@@ -29,17 +29,14 @@ My name is Kerem Kazan. I've been a professional product oriented `full stack so
 - [Liquidity Pool Protocol + Frontend](https://github.com/mechanical-turk/solidity-lp): a uniswap-like liquidity pool implementation along with a reference frontend application
 
 ### Current Tech Stack
-
-- `TypeScript` / `NodeJS`
-- `Solidity` / `Hardhat`
-- `React` / `NextJS`
+- `Rust` / `TypeScript` / `Python` / `Solidity`
+- `NodeJS` / `React`
 - `GraphQL` / `Apollo Client`
 - `Datadog`
-- `NestJS`
-- `Postgres` / `Prisma`
-- `Terraform`
+- `Postgres`
+- `Terraform` / `Kubernetes` / `Docker`
 - `Docker`
-- `AWS`
+- `AWS` / `GCP`
 
 ### Education
 
