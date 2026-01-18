@@ -1,14 +1,16 @@
 ## Hi there 👋
 
-My name is Kerem Kazan. I've been a professional product oriented `full stack software engineer` since 2016, and I'm currently focusing on `infrastructure`, `smart contract engineering` and `dApp architecture`. Check out my Twitter ([@mechaturka](https://twitter.com/@mechaturka)) if you're interested in software philosophy and meditation.
+I'm Kerem Kazan. I've worked in small startups all my career - since 2016. My work has spanned multiple roles and domains, beginning with full-stack engineering, progressing into Web3 infrastructure, and later focusing on ML infrastructure, AI safety, and Evals.
 
 ### Currently Building
 
-- [towns.com](towns.com): Towns is a decentralized, realtime, e2e encrypted, community and messaging social experience, built on our in-house developed River protocol. Think discord but decentralized and open-source. I help with infrastructure, o11y, build systems and smart contracts.
-
-- [@whatsgood/nexus](https://nexus.whatsgood.dog): Nexus is a multi-chain, hyper-customizable, performant and cost-saving rpc proxy library, written in TypeScript. It ships with built-in authorization, route filters, caching and observability. Behavior can be enhanced through configuration, middlewares and event handlers. Currently supporting CloudFlare, FastifyJS, Node, ExpressJS.
+- [haizelabs.com](https://haizelabs.com): Haize is an applied research lab focused on helping enterprises build reliable, safe and production ready AI Enabled services. 
 
 ### Previous Web3 Projects
+
+- [towns.com](https://towns.com): Towns is a decentralized, realtime, e2e encrypted, community and messaging social experience, built on our in-house developed River protocol. Think discord but decentralized and open-source. I help with infrastructure, o11y, build systems and smart contracts.
+
+- [@whatsgood/nexus](https://nexus.whatsgood.dog): Nexus is a multi-chain, hyper-customizable, performant and cost-saving rpc proxy library, written in TypeScript. It ships with built-in authorization, route filters, caching and observability. Behavior can be enhanced through configuration, middlewares and event handlers. Currently supporting CloudFlare, FastifyJS, Node, ExpressJS.
 
 - [sound.xyz](https://www.sound.xyz): Sound is an artist-first, community driven music nft  platform. I helped them with client-side web3 integration, infrastructure, observability and GraphQL APIs.
 
