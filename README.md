@@ -12,7 +12,7 @@ I'm Kerem Kazan. I've worked in small startups all my career - since 2016. My wo
 
 - [@whatsgood/nexus](https://nexus.whatsgood.dog): Nexus is a multi-chain, hyper-customizable, performant and cost-saving rpc proxy library, written in TypeScript. It ships with built-in authorization, route filters, caching and observability. Behavior can be enhanced through configuration, middlewares and event handlers. Currently supporting CloudFlare, FastifyJS, Node, ExpressJS.
 
-- [@whatsgood/rpc-gateway](https://github.com/whats-good/rpc-gateway): RPC Gateway is a rust port of [@whatsgood/nexus](https://nexus.whatsgood.dog). A fully configurable, fault tolerant and high performance RPC proxy and a load balancer - specifically designed for cost savings with minimal memory and CPU footprint.
+- [@whatsgood/rpc-gateway](https://github.com/whats-good/rpc-gateway): RPC Gateway is a rust port of [@whatsgood/nexus](https://nexus.whatsgood.dog). A fully configurable, fault tolerant and high performance RPC proxy and load balancer - specifically designed for cost savings with minimal memory and CPU footprint.
 
 - [sound.xyz](https://www.sound.xyz): Sound is an artist-first, community driven music nft  platform. I helped them with client-side web3 integration, infrastructure, observability and GraphQL APIs.
 
