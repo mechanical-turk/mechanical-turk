@@ -10,7 +10,7 @@ the machinery behind modern deep learning systems.
 
 ## Current projects
 
-### [Deep Learning, All the Way Down](https://github.com/mechanical-turk/deep-learning-all-the-way-down)
+### Deep Learning, All the Way Down
 
 A code-first video series that rebuilds deep learning from first principles in
 modern C++.
@@ -25,7 +25,7 @@ CUDA kernels.
 [Source code](https://github.com/mechanical-turk/deep-learning-all-the-way-down)
 · [YouTube series](https://www.youtube.com/playlist?list=PLZSg76FHvdTw)
 
-### [Chess Commentator Transformer](https://github.com/mechanical-turk/chess-commentator-transformer)
+### Chess Commentator Transformer
 
 An encoder-decoder transformer trained to generate tactical commentary for
 chess moves. The project covers data mining, quality analysis, custom
@@ -44,7 +44,7 @@ testing across hundreds of thousands of daily language-model conversations,
 their evaluations, and their taxonomies. I also led a directed-graph interface
 for maintaining large suites of functional model tests.
 
-### [High-performance RPC gateway](https://github.com/whats-good/rpc-gateway)
+### High-performance RPC gateway
 
 I authored a caching RPC load balancer in Rust and integrated it into production
 infrastructure. It served roughly 1,000 to 2,000 requests per second on 0.5 vCPU
@@ -53,6 +53,8 @@ $20,000 per month.
 
 The gateway supports HTTP and WebSocket traffic, caching, health monitoring,
 load balancing, Docker, Kubernetes, and configurable observability.
+
+[Source code](https://github.com/whats-good/rpc-gateway)
 
 ### Distributed messaging infrastructure
 
