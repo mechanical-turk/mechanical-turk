@@ -91,7 +91,6 @@ scaffolding tool distributed through npm.
 ## Background
 
 - BSE in Computer Science, University of Pennsylvania
-- Former founding engineer, engineering leader, and startup co-founder
 - 0xMacro Secure Smart Contract Engineering Fellowship, honors tier
 - Product Hunt Golden Kitty Award for Social Impact with Matter
 - Co-inventor on a pending patent for automated performance feedback
